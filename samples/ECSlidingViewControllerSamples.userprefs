@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LayoutDemo/AppDelegate.cs">
+    <Files>
+      <File FileName="LayoutDemo/AppDelegate.cs" Line="25" Column="38" />
+      <File FileName="../ECSlidingViewControllerSDK/ApiDefinition.cs" Line="1" Column="1" />
+      <File FileName="../../../Tests/NSNotificationsTest/NSNotificationsTest/NSNotificationsTestViewController.cs" Line="1" Column="1" />
+      <File FileName="LayoutDemo/Main.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

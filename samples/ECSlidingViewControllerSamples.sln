@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutDemo", "LayoutDemo\LayoutDemo.csproj", "{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitionFun", "TransitionFun\TransitionFun.csproj", "{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMenu", "BasicMenu\BasicMenu.csproj", "{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.Release|iPhone.Build.0 = Release|iPhone
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2813C7E7-6FF8-446C-90AF-1E749BAE9D8A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.Release|iPhone.Build.0 = Release|iPhone
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D7766D1F-D609-42E5-A05E-FCCD1E2028A6}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.Release|iPhone.Build.0 = Release|iPhone
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E51B5D51-6318-4D49-9FCF-4BAFD9E4CD6A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = LayoutDemo\LayoutDemo.csproj
+	EndGlobalSection
+EndGlobal

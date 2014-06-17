@@ -138,7 +138,7 @@ namespace ECSlidingViewController1X
 		/// Gets or sets the number of points the top view is visible when the top view is anchored to the left side.
 		/// This value is fixed after rotation. If the number of points to reveal needs to be fixed, use anchorLeftRevealAmount.
 		/// </summary>
-		[Export ("topViewController", ArgumentSemantic.Assign)]
+		[Export ("anchorLeftPeekAmount", ArgumentSemantic.Assign)]
 		float AnchorLeftPeekAmount { get; set; }
 
 		/// <summary>
@@ -239,7 +239,7 @@ namespace ECSlidingViewController1X
 		/// This is typically added to the top view or a top view's navigation bar.
 		/// </summary>
 		[Export ("panGesture")]
-		UIPanGestureRecognizer panGesture ();
+		UIPanGestureRecognizer PanGesture ();
 
 		/// <summary>
 		/// Slides the top view in the direction of the specified side.

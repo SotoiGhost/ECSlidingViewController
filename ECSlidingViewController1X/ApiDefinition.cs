@@ -68,6 +68,10 @@ namespace ECSlidingViewController1X
 
 	[BaseType (typeof (UIViewController))]
 	interface ECSlidingViewController {
+
+		[Export ("initWithNibName:bundle:")]
+		IntPtr Constructor (string nibName, NSBundle bundle);
+
 		/// <summary>
 		/// Notification that gets posted when the underRight view will appear.
 		/// </summary>
